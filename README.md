@@ -1,2 +1,2 @@
-# dsa-java
-DSA Practising in JAVA
+# datastructures-java
+DS Practising in JAVA
